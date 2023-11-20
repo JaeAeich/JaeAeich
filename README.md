@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Javed Habib</h1>
 
-  <i align="center">Hey, wanderer! 👋  you have found my coding corner. I field of study is in the art of turning caffeine into code. I love <s> writing new bug </s> implementing new features 💻✨ Here to learn, laugh, and leave code better than I found it. Let's defy
+  <i align="center">Hey, wanderer! 👋  you have found my coding corner. My field of study is in the art of turning caffeine into code. I love <s> writing new bug </s> implementing new features 💻✨ Here to learn, laugh, and leave code better than I found it. Let's defy
     expectations together!</i>
 
-  <i align="center">In my off time, I dabble in art, poetry, fantasy, and sci-fi (obv).</i>
+  <i align="center">In my off time, I dabble in art, poetry, fantasy, and sci-fi (of course).</i>
 
 <p align="center">
   I shall be telling this with a sigh <br>
