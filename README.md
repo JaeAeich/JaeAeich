@@ -1,28 +1,41 @@
-  <h1 align="center">Hi 👋, I'm Javed Habib</h1>
+### `cat /etc/profile.d/javed.sh`
 
-  <i align="center">Hey, wanderer! 👋  you have found my coding corner. My field of study is in the art of turning caffeine into code. I love <s> writing new bug </s> implementing new features 💻✨ Here to learn, laugh, and leave code better than I found it. Let's defy
-    expectations together!</i>
+```bash
+#!/bin/bash
 
-  <i align="center">In my off time, I dabble in art, poetry, fantasy, and sci-fi (of course).</i>
+# /etc/profile.d/javed.sh
+# A little bit about me.
+#                                                                      
+#     ██                                                ██               ▄▄       
+#     ▀▀                                                ▀▀               ██       
+#   ████      ▄█████▄   ▄████▄    ▄█████▄   ▄████▄    ████      ▄█████▄  ██▄████▄ 
+#     ██      ▀ ▄▄▄██  ██▄▄▄▄██   ▀ ▄▄▄██  ██▄▄▄▄██     ██     ██▀    ▀  ██▀   ██ 
+#     ██     ▄██▀▀▀██  ██▀▀▀▀▀▀  ▄██▀▀▀██  ██▀▀▀▀▀▀     ██     ██        ██    ██ 
+#     ██     ██▄▄▄███  ▀██▄▄▄▄█  ██▄▄▄███  ▀██▄▄▄▄█  ▄▄▄██▄▄▄  ▀██▄▄▄▄█  ██    ██ 
+#     ██      ▀▀▀▀ ▀▀    ▀▀▀▀▀    ▀▀▀▀ ▀▀    ▀▀▀▀▀   ▀▀▀▀▀▀▀▀    ▀▀▀▀▀   ▀▀    ▀▀ 
+#  ████▀                                                                          
 
+export NAME="Javed Habib"
+export ENVIRONMENT=("Linux" "macOS (metaphorically)")
+export SHELL="a zsh/bash of ideas"
+export EDITORS=("NeoVim" "Zed" "my imagination")
+
+# Tech I'm currently working with or enjoying
+export LANGUAGES=("Python" "Go" "Rust" "Typescript" "Bash")
+export SKILLS=("APIs" "Kubernetes" "Cloud-Native Workflows" "Frontend" "...and a lot in between")
+
+# Outside of the terminal
+export HOBBIES=("Poetry" "Sci-Fi & Fantasy")
+
+# Connect
+export GITHUB="[https://github.com/jaeaeich](https://github.com/jaeaeich)"
+export LINKEDIN="[https://linkedin.com/in/javed-habib](https://linkedin.com/in/javed-habib)"
+export COLLABORATION_STATUS="Open to new opportunities"
+
+echo "Welcome to my profile. Feel free to reach out!"
+
+```
 <p align="center">
-  I shall be telling this with a sigh <br>
-  Somewhere ages and ages hence: <br>
-  Two roads diverged in a wood, and I— <br>
-  I took the one less traveled by, <br>
-  And that has made all the difference.
-</p>
-
-
-   <hr/>
-  <h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/javed-habib" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javed-habib-b7965825b" height="20" width="20" />
-  </a>
-  &nbsp;&nbsp
-  <a href="https://twitter.com/JaeAeich" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png" alt="JaeAeich" height="15" width="15" />
-  </a>
+  <a href="https://github.com/jaeaeich" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/javed-habib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
