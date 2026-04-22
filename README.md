@@ -16,16 +16,6 @@
 #  ████▀                                                                          
 
 export NAME="Javed Habib"
-export ENVIRONMENT=("Linux" "macOS (metaphorically)")
-export SHELL="a zsh/bash of ideas"
-export EDITORS=("NeoVim" "Zed" "my imagination")
-
-# Tech I'm currently working with or enjoying
-export LANGUAGES=("Python" "Go" "Rust" "Typescript" "Bash")
-export SKILLS=("APIs" "Kubernetes" "Cloud-Native Workflows" "Frontend" "...and a lot in between")
-
-# Outside of the terminal
-export HOBBIES=("Poetry" "Sci-Fi & Fantasy")
 
 # Connect
 export GITHUB="[https://github.com/jaeaeich](https://github.com/jaeaeich)"
